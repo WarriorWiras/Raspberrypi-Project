@@ -1,6 +1,8 @@
+# Summary
 The home server projects I've created with my Raspberry Pi are in this section.
 
-Content:
+## Content
+
 - Setting up Raspberry Pi
 - Configuring Media Server
 - Configuring OpenMediaVault (NAS)
