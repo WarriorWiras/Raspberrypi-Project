@@ -1,10 +1,9 @@
 <a name="readme-top"></a>
 # Raspberrypi-Project
-A Personel Raspberrypi Projects
+A Personel Raspberrypi Projects for everyone
 
 
 ## About The Project
-[![Raspberry Pi][product-screenshot]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/23551-raspberry-pi-5.jpg/800px-23551-raspberry-pi-5.jpg)
 
 I'll demonstrate in this project how to utilize your Raspberry Pi effectively using a variety of hands-on and configuration settings.
 
